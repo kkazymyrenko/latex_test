@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Examples of the LBB Condition in Mechanical Modeling}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Incompressible Elasticity and Fluid Flow}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Other PDEs where LBB is Relevant}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Finite Element Discretization Examples}{2}{subsection.2.3}%
+\contentsline {section}{\numberline {3}The Discrete Inf-Sup Condition and Singular Value Decomposition}{2}{section.3}%
+\contentsline {section}{\numberline {4}Applications to Interface and CZM Modeling}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Mixed Formulations with Lagrange Multipliers}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Work of Eric Lorentz and Michel Fortin}{3}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Other References and Practices}{3}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Historical Summary and Key Contributors}{3}{section.5}%
